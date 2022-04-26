@@ -1,0 +1,28 @@
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-image: url(../Assets/Backdrop_Uncropped.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+/*https://pixahive.com/wp-content/uploads/2021/02/Snowy-mountains-landscape-342427-pixahive.jpg*/
+/*https://pixahive.com/photo/snowy-mountains-landscape-4/*/
+.backdrop {
+    background-color: white;
+    border: solid 2px black;
+    border-radius:2%;
+    margin:5%;
+    padding-left:5%;
+    padding-right:5%;
+    padding-bottom:3%;
+    vertical-align: middle;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+input,
+select,
+textarea {
+    max-width: 280px;
+}
